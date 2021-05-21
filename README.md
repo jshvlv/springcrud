@@ -8,11 +8,10 @@ __- Java 8__
 
 __- Apache Maven__
 
-__- Spring Boot__
+__- Spring MVC__
 
 __- H2 Database__
 
-__- MVC__
 
 ###### Application.java - this is the application entry point
 
