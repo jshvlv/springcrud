@@ -1,4 +1,4 @@
-# This is simple CRUD application in Spring Boot.
+# This is a simple CRUD application in Spring Boot.
 
 
 ###The app using the following technologies:
